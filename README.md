@@ -83,14 +83,6 @@ Focus was on solving the **core problem (active recall)** rather than building m
 
 ---
 
-## 🛠 Tech (Optional)
-
-* AI/LLM for question generation
-* Basic frontend interface
-* Data tracking for user behavior
-
----
-
 ## 🧠 Key Insight
 
 The real problem in learning is not lack of content, but lack of effective recall. StudyLoop focuses on enabling action (recall) rather than just providing information.
